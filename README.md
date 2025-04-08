@@ -5,23 +5,6 @@
 
 ## 🖥️ Linguagens e Tecnologias
 
-<div align="center"><h3>⚙️ Back-end</h3></div>
-
-<p align="center">
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="50" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" height="50" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="50" /></a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" height="50" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="50" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="50" /></a>
-</p>
-
 <div align="center"><h3>🎨 Front-end</h3></div>
 
 <p align="center">
@@ -41,6 +24,23 @@
     <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" title="jQuery" height="50" /></a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="50" /></a>
+</p>
+
+<div align="center"><h3>⚙️ Back-end</h3></div>
+
+<p align="center">
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="50" /></a>
+  <a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" height="50" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="50" /></a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" height="50" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="50" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" height="50" /></a>
 </p>
 
 <div align="center"><h3>🚀 DevOps</h3></div>
