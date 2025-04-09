@@ -1,7 +1,10 @@
 # 👨🏻‍💻 Wady Jorge | Desenvolvedor Full Stack
 
-- 🎓 Bacharel em Sistemas de Informação pela UNIPAR  
-- 🎓 Pós-graduado em Tecnologia Java pela UTFPR
+- 🎓 Bacharel em Sistemas de Informação | UNIPAR (2020-2023)
+- 🏆 Pós-graduado em Tecnologia Java | UTFPR (2024-2025)
+- 💻 Mais de 2 anos de experiência como Desenvolvedor Full Stack
+- 📈 Evoluindo constantemente com projetos reais e contribuições em código aberto
+- 🎯 Comprometido com qualidade, código limpo, boas práticas e aprendizado contínuo
 
 ## 🖥️ Linguagens e Tecnologias
 
